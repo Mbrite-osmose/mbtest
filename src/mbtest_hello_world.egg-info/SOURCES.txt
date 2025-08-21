@@ -1,0 +1,8 @@
+README.md
+setup.py
+src/mbtest_hello_world.egg-info/PKG-INFO
+src/mbtest_hello_world.egg-info/SOURCES.txt
+src/mbtest_hello_world.egg-info/dependency_links.txt
+src/mbtest_hello_world.egg-info/entry_points.txt
+src/mbtest_hello_world.egg-info/top_level.txt
+tests/test_main.py
